@@ -2,8 +2,6 @@
 
 ### Cloud Computing & Full-Stack Development Enthusiast ☁️💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=R-git-ui&label=Profile views&color=0e75b6&style=flat" alt="R-git-ui" /> </p>
-
 - 🔭 I'm currently working on **AWS Cloud Computing, Full-Stack Web Development, and personal software projects**
 
 - 🌱 I'm currently learning **AWS Architecture, Cloud Services, System Design, and Backend Development**
