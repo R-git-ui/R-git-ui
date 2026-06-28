@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=R-git-ui&label=Profile views&color=0e75b6&style=flat" alt="R-git-ui" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=R-git-ui" alt="R-git-ui" /></a> </p>
-
 - 🔭 I'm currently working on **AWS Cloud Computing, Full-Stack Web Development, and personal software projects**
 
 - 🌱 I'm currently learning **AWS Architecture, Cloud Services, System Design, and Backend Development**
