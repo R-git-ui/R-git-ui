@@ -55,7 +55,7 @@ I'm **Rochak**, a passionate about building modern web applications and explorin
 
 <p align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=R-git-ui&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=18"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=R-git-ui&rank_icon=percentile&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=18"/>
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=R-git-ui&layout=compact&langs_count=4&theme=tokyonight&hide_border=true&border_radius=18"/>
 
