@@ -18,6 +18,9 @@ jobs:
           github_user_name: R-git-ui
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          # Use your custom token here to read private/user-level contribution data
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
